@@ -31,6 +31,6 @@ def circulate():
 ```
 
 ## Output:
-![Alt text](<image py.png>)
+![output](circulate.png)
 ## Result:
 Thus the python program for Circulate the values of a variables is executed successfully
